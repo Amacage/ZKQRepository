@@ -7,7 +7,8 @@
 //
 
 #import "ViewController.h"
-
+#define KEYWIDTH [UIScreen mainScreen].bounds.size.width
+#define KEYHEIGHT [UIScreen mainScreen].bounds.size.height
 @interface ViewController ()
 
 @end
